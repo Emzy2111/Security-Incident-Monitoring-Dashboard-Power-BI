@@ -1,0 +1,12 @@
+Security-Incident-Dashboard/
+│
+├── Dataset/
+│   └── security_incidents.csv
+│
+├── Dashboard/
+│   └── SecurityDashboard.pbix
+│
+├── Screenshots/
+│   └── dashboard.png
+│
+└── README.md
